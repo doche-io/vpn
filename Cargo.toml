@@ -1,0 +1,9 @@
+[package]
+name = "vpn"
+version = "0.1.0"
+edition = "2021"
+author = ["ES-Yukun <yukun@doche.io>"]
+
+[dependencies]
+tun-tap = "0.1.2"
+pnet = "0.30.0"
