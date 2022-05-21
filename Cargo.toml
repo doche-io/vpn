@@ -5,5 +5,6 @@ edition = "2021"
 author = ["ES-Yukun <yukun@doche.io>"]
 
 [dependencies]
+futures = "0.3.21"
+tokio-core = "0.1.18"
 tun-tap = "0.1.2"
-pnet = "0.30.0"
